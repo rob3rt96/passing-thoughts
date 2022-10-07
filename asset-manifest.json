@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/passing-thoughts/static/css/main.78706b42.css",
+    "main.js": "/passing-thoughts/static/js/main.495a06f8.js",
+    "static/js/787.28e49fe5.chunk.js": "/passing-thoughts/static/js/787.28e49fe5.chunk.js",
+    "index.html": "/passing-thoughts/index.html",
+    "main.78706b42.css.map": "/passing-thoughts/static/css/main.78706b42.css.map",
+    "main.495a06f8.js.map": "/passing-thoughts/static/js/main.495a06f8.js.map",
+    "787.28e49fe5.chunk.js.map": "/passing-thoughts/static/js/787.28e49fe5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78706b42.css",
+    "static/js/main.495a06f8.js"
+  ]
+}
